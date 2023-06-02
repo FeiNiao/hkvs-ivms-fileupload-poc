@@ -22,4 +22,11 @@ python .\hkvs-ivms-fileupload-getshell.py -u http://xx.xx.xx.xx
 
 效果图
 
-图片暂时发不上去
+![image](https://github.com/FeiNiao/hkvs-ivms-fileupload-poc/assets/66779835/5a563d28-2ad2-4d8d-a44c-1041c1142246)
+
+提示上传附件失败，上传文件不能为空，说明存在漏洞并且可以上传文件
+
+失败提示
+![image](https://github.com/FeiNiao/hkvs-ivms-fileupload-poc/assets/66779835/3137c82d-ddf7-4a27-8a56-16bdadb80616)
+
+
