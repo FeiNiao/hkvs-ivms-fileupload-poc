@@ -44,4 +44,5 @@ python .\hkvs-ivms-fileupload-getshell.py -u http://xx.xx.xx.xx
 
 ![image](https://github.com/FeiNiao/hkvs-ivms-fileupload-poc/assets/66779835/d703fc4d-e2cf-4f9f-aef1-dc1232880d5e)
 
-原创脚本并没有上传shell，而是使用了`hkvs`字符进行替代，如有需要请自行修改为shell
+原创脚本并没有上传shell，而是使用了`hkvs`字符进行替代，如有需要请自行修改为shell。
+由于用户滥用造成的一切后果与作者无关，切勿用于非法用途，非法使用造成的一切后果由自己承担，与作者无关。
