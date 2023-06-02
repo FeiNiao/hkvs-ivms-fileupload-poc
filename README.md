@@ -30,4 +30,18 @@ python .\hkvs-ivms-fileupload-getshell.py -u http://xx.xx.xx.xx
 
 ![image](https://github.com/FeiNiao/hkvs-ivms-fileupload-poc/assets/66779835/3137c82d-ddf7-4a27-8a56-16bdadb80616)
 
+## 文件上传
+验证完成后可以使用getshell脚本测试文件上传
+### 食用方法
+```
+ python .\hkvs-ivms-fileupload-getshell.py -u http://xx.xxx.xx.xx
+```
+效果图
 
+![image](https://github.com/FeiNiao/hkvs-ivms-fileupload-poc/assets/66779835/9daf337f-c507-4385-a369-6814723541dd)
+
+根据脚本提示访问地址进行查看
+
+![image](https://github.com/FeiNiao/hkvs-ivms-fileupload-poc/assets/66779835/d703fc4d-e2cf-4f9f-aef1-dc1232880d5e)
+
+原创脚本并没有上传shell，而是使用了`hkvs`字符进行替代，如有需要请自行修改为shell
