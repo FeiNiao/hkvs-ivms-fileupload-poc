@@ -21,5 +21,4 @@ python .\hkvs-ivms-fileupload-getshell.py -u http://xx.xx.xx.xx
 ```
 
 效果图
-![Uploading image.png…]()
 
