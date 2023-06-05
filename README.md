@@ -17,7 +17,7 @@
 ### 食用方法
 
 ```
-python .\hkvs-ivms-fileupload-getshell.py -u http://xx.xx.xx.xx
+python .\hkvs-ivms-fileupload-poc.py -u http://xx.xx.xx.xx
 ```
 
 效果图
