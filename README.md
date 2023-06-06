@@ -22,7 +22,7 @@ python .\hkvs-ivms-fileupload-poc.py -u http://xx.xx.xx.xx
 
 效果图
 
-### 图放错啦，该图片是实验之前的图片文件名字忘记改了，所以测试脚本还是hkvs-ivms-fileupload-poc.py
+### 图放错啦，该图片是实验之前的图片，文件名字忘记改了，所以测试脚本还是hkvs-ivms-fileupload-poc.py
 
 ![image](https://github.com/FeiNiao/hkvs-ivms-fileupload-poc/assets/66779835/5a563d28-2ad2-4d8d-a44c-1041c1142246)
 
